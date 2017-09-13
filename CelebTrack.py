@@ -1,3 +1,12 @@
+"""
+
+you can simple put the following code if you want to use '_' easily.
+name.replace(" ", "_")
+
+What it does is, it replaces all the space with _.
+so it will be eligible to search easily on wikipedia.
+
+"""
 import urllib.request
 import re
 import webbrowser
